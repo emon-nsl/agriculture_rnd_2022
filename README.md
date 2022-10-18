@@ -101,4 +101,4 @@ Paper link: https://www.irjet.net/archives/V9/i4/IRJET-V9I4583.pdf
 - Mechanical weed removal
 - Making pods of vertical agriculture for indoor small farming
 - Sattelite imaging for crop amount prediction
-- Supershop, restaurants, resort, retail food waste reduction
+- Supershop, restaurants, resort, retail food waste reduction by predicting daily demand
