@@ -20,7 +20,9 @@ Algorithm:
 
 Dataset: Custom made dataset
 
-Accuracy: 90%
+Accuracy: 
+
+![image](./images/harvesting_result.png)
 
 Paper link: https://robomechjournal.springeropen.com/counter/pdf/10.1186/s40648-019-0141-2.pdf
 
@@ -67,9 +69,29 @@ the need. Which will reduce the use of fertilizer.
 
 Monitoring: Monitoring vast field is cumbersome and sometimes impossible. But AI powered drone can do it with much ease.
 
-Algorithm: ssa.png
-Dataset: <----->
-Accuracy:<----->
+Algorithm:
+
+![image](./images/ssa.png)
+
 Paper link: https://arxiv.org/abs/1906.03106
-Github link: 
-R & D Status:
+
+
+
+
+# Paper 4
+
+Paper: Artificial Intelligence and Machine Learning Operated Pesticide Sprayer
+
+Published data: 04 April 2022
+
+contribution: Made a specialized moving object and get images through camera and using those data predict detect if it has any defect. and If it has, then spray insecticides.
+
+Algorithm: Gaussian Naive Bias to classify if it is affected.
+
+Dataset: Custom made dataset
+
+![image](./images/aiml.png)
+
+Accuracy: 
+
+Paper link: https://www.irjet.net/archives/V9/i4/IRJET-V9I4583.pdf
