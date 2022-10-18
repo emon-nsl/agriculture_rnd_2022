@@ -95,3 +95,10 @@ Dataset: Custom made dataset
 Accuracy: 
 
 Paper link: https://www.irjet.net/archives/V9/i4/IRJET-V9I4583.pdf
+
+# Some Brainstorming Ideas
+- Custom fertilizer for every chunk of plot
+- Mechanical weed removal
+- Making pods of vertical agriculture for indoor small farming
+- Sattelite imaging for crop amount prediction
+- Supershop, restaurants, resort, retail food waste reduction
