@@ -98,6 +98,7 @@ Paper link: https://www.irjet.net/archives/V9/i4/IRJET-V9I4583.pdf
 
 # Some Brainstorming Ideas
 - Custom fertilizer for every chunk of plot
+- Automated irrigation system
 - Mechanical weed removal
 - Making pods of vertical agriculture for indoor small farming
 - Sattelite imaging for crop amount prediction
